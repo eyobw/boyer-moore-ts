@@ -5,10 +5,10 @@ Eyob W.
 __author__ = "Eyob W"
 __date__ = "Date: 30.1.2015"
 __version__ = "Version: 1.0"
-__Copyright__ = "Copyright: @eyob"
+__Copyright__ = "Copyright: @eyobw"
 
-# given inputs for Student ID 38957
-input_pattern = 'build'
+
+input_pattern = 'vulputate'
 # Initialize input text
 input_text = ''
 
